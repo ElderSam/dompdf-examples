@@ -1,0 +1,16 @@
+{
+    "name": "samue/dompdf-examples",
+    "type": "project",
+    "require-dev": {
+        "dompdf/dompdf": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ElderSam",
+            "email": "eldersamuel98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
